@@ -1,0 +1,13 @@
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\bin\Debug\OBSHelper.exe.config
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\bin\Debug\OBSHelper.exe
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\bin\Debug\OBSHelper.pdb
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.Form1.resources
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.Properties.Resources.resources
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.exe
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.pdb
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\bin\Debug\OBSHelper.exe.manifest
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\bin\Debug\OBSHelper.application
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.exe.manifest
+C:\Users\Nathan\Documents\WSU Stream\OBS Helper\OBSHelper\OBSHelper\obj\Debug\OBSHelper.application
